@@ -9,8 +9,8 @@ compute all conditional and marginal probabilities along with their insights/imp
 on the business.
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python] 
-- You can access the complete project in pdf format here - [Report]
+- You can access the complete project python file here - [Python] (https://github.com/nikhilsree5/AerofitCasestudy/blob/main/Aerofit_Businesscase.ipynb)
+- You can access the complete project in pdf format here - [Report] (https://github.com/nikhilsree5/AerofitCasestudy/blob/main/Business%20Cas3%20Aerofit%20-%20NIkhil%20K%20A.pdf)
 
 ## 📚 About Data
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during `three months`.The data is available in a single csv file 
